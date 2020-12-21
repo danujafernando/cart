@@ -103,6 +103,15 @@ class Cart extends Model{
         return true;
     }
 
+    /** 
+     * retrieve cart items
+     * @param int $user_id
+     * @return Object
+    */
+    public function getCart($user_id = 0){
+        return get_cart_items($user_id);
+    }
+
     /**
      * update quantity using cart id
      * 
