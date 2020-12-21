@@ -7,15 +7,6 @@ use Illuminate\Support\Facades\Session;
 
 class Cart extends Model{
 
-
-     /**
-     * The Cart library version.
-     *
-     * @var string
-     */
-    const VERSION = '1.0.0';
-
-
     public static $runsMigrations = true;
 
     /**
