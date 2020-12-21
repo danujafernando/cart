@@ -1,6 +1,9 @@
 # Laravel Shopping Cart
 [![Issues](https://img.shields.io/github/issues/danujafernando/cart?style=flat-square)](https://github.com/danujafernando/cart/issues)
 [![Stars](https://img.shields.io/github/stars/danujafernando/cart?style=flat-square)](https://github.com/danujafernando/cart/stargazers)
+[![License](https://img.shields.io/github/license/danujafernando/cart?style=flat-square)](https://packagist.org/packages/danujafernando/cart)
+[!(https://img.shields.io/twitter/url?style=social)](https://twitter.com/DanFernando1)
+
 
 A simple laravel shopping cart package
 
