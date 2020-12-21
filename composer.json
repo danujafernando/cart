@@ -1,0 +1,22 @@
+{
+    "name": "danujafernando/cart",
+    "description": "This is the cart package",
+    "keywords": ["laravel", "shopping cart", "cart"],
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Danuja Fernando",
+            "email": "ldashanfernando@gmail.com"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "DanujaFernando\\Cart\\": "src/"
+        },
+        "files": [
+            "src/helper.php"
+        ]
+    }
+}
