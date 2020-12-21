@@ -32,7 +32,7 @@ class Cart extends Model{
      * 
      * @return bool
      */
-    public static function add($product_id, $user_id = 0, $quantity = 0, $unit_price = 0, $attributes = [])
+    public static function add($product_id, $user_id = 0, $quantity = 1, $unit_price = 0.01, $attributes = [])
     {
         if(count($attributes) != 0)
         {

@@ -13,5 +13,5 @@ return [
     */
     'lifetime' => 120,
 
-    'product_attributes_keys' => [ 'name', 'price'],
+    'product_attributes_keys' => [ 'name', 'value', 'price'],
 ];
